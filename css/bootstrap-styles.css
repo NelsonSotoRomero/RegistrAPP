@@ -1,0 +1,62 @@
+#medicion,#medicion2{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+
+#border_imagen{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#border_body{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: #030F65;
+}
+#img-border{
+    display: block;
+    margin: auto;
+}
+#text{
+    text-align: center;
+    color: #ffff;
+    margin-left: 0%;
+    margin-right: 20%;
+}
+
+#color_letra{
+    color:#ffff;
+}
+#nav_2{
+    width: 40%;
+    float: left;
+}
+#section_2{
+    width: 60%;
+    float: left;
+}
+#navcolor{
+    background-color: #EBEBEA ;
+    color: #ffff;
+}
+#contenedor{
+    background-color: blueviolet;
+    width: 90%;
+    margin:0 auto;
+    max-width: 1000px;
+    overflow: hidden;
+}
+#img{
+    width: 20%;
+    height: auto;
+}
+
+@media screen and (min-width:800px) {
+    #ife{
+        background-color: cyan;
+    }
+}

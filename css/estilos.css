@@ -1,0 +1,40 @@
+@media screen and (min-width: 801px){
+    .boton{
+        display: none;
+        
+    }
+}
+@media screen and (max-width: 800px){
+    .QR{
+        display: none;
+    }
+}
+.centrado{
+    margin-left: auto; 
+    margin-right: auto;
+}
+#navcolor{
+    background-color:blanchedalmond;
+}
+
+#border_body{
+    background-color: #fe7e27;
+    width: 100%;
+}
+#colorido{
+    background-color: #ffebcd;
+}
+.imagen{
+    width: 500px;
+}
+.head{
+    width: 100%;
+}
+.centrar{
+    text-align: center;
+}
+.centradoCarousel{
+    width: 50%;
+    margin-left: auto; 
+    margin-right: auto;
+}
